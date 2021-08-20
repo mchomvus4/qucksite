@@ -47,9 +47,7 @@ import {BrowserRouter as Router, Link} from 'react-router-dom';
         {/* <!-- Footer End--> */}
     </footer>
     {/* <!-- Scroll Up --> */}
-    <div id="back-top" >
-        <Link title="Go to Top" to="#"> <i class="fas fa-level-up-alt"></i></Link>
-    </div>
+    
 
       </div>
       </Router>

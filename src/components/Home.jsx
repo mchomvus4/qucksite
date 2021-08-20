@@ -35,7 +35,7 @@ class Home extends Component {
                     <div class="col-lg-5">
                         <div class="about-caption mb-50">
                             <h3>Mambo Muhimu yanayohitaka.</h3>
-                            <div className="header-right-btn f-left d-none d-xl-block ml-20">
+                            <div className="btn-taarifa">
                                         <a href={TAARIFA} target="_blank" rel="noreferrer" className="btn header-btn">Bonyeza Kusoma</a>
                                     </div>
                         </div>
