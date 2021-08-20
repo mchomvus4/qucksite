@@ -2469,10 +2469,17 @@ px) {
     .services-area .nav-tabs::before {
         display: none;
     }
+    .video{
+        display: block;
+    }
 }
+
 @media (max-width: 575px) {
     .services-area .nav-tabs::before {
         display: none;
+    }
+    .video{
+        width: 100%;
     }
 }
 .services-area .nav-tabs .nav-item.show .nav-link,

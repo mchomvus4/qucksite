@@ -43,7 +43,7 @@ class Home extends Component {
                     </div>
                     <div class="col-lg-5 offset-lg-1">
                          <h4>Tumia Muda kidogo kusikiliza video Hii</h4>
-                       <video src={video1} width="600" height="300" controls="controls" autoplay="true" />
+                       <video src={video1} className="video" width="600" height="300" controls="controls" autoplay="true" />
                     </div>
                 </div>
             </div>
