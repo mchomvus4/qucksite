@@ -1,0 +1,1 @@
+Quick Bussiness Registration site link https://quicknyaki.netlify.app/

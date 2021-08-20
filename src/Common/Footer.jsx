@@ -27,7 +27,7 @@ import {BrowserRouter as Router, Link} from 'react-router-dom';
                         <div className="col-xl-9 col-lg-8">
                             <div className="footer-copy-right">
                                 {/* <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
-  Copyright &copy;<script></script> All rights reserved | Quick Bussiness
+            <p>Copyright &copy;<script></script>2021 All rights reserved | Quick Bussiness</p>
   {/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p> */}
                             </div>
                         </div>

@@ -41,11 +41,11 @@ import {NavLink} from 'react-router-dom';
                         <div class="about-me-caption">
                             <h3>Hatua Tano QuickbizReg </h3> 
                             
-                            <h5>Hatua ya kwanza</h5>
-                            <h5>Hatua ya pili.</h5>
-                            <h5>Hatua ya tatu.</h5>
-                            <h5>Hatua ya nne.</h5>
-                            <h5>Hatua ya tano.</h5>
+                            <h5>Kukusanya Taarifa Muhimu</h5>
+                            <h5>Kufungua Akaunti</h5>
+                            <h5>Kujaza Maombi kwenye Mtandao</h5>
+                            <h5>Kuandaa Nyaraka na Kuingiza Kwenye Mfumo</h5>
+                            <h5>Kupakua Cheti Chako</h5>
                             
                         </div>
                     </div>

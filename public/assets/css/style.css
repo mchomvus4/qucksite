@@ -2407,7 +2407,7 @@ px) {
 }
 .about-me .about-me-caption h5 {
     padding-left: 25px;
-    border-left: 2px solid #ff5f13;
+    border-left: 2px solid #03811e;
     margin-bottom: 30px;
 }
 .services-area .single-services img {
@@ -2820,7 +2820,7 @@ px) {
     padding-top: 20px;
 }
 .footer-area .footer-bottom .footer-copy-right p {
-    color: #393a50;
+    color: #fff;
     font-weight: 300;
     font-size: 16px;
     line-height: 2;

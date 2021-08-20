@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import {NavLink} from 'react-router-dom';
 import TAARIFA from '../Documents/TAARIFA.pdf';
+import video1 from '../Videos/video1.mp4'
 class Home extends Component {
   render() {
     return (
@@ -41,8 +42,8 @@ class Home extends Component {
                         </div>
                     </div>
                     <div class="col-lg-5 offset-lg-1">
-                         <h4>Tumia Muda kidogo kusikiliza(video)</h4>
-                       <img className="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt=""/>
+                         <h4>Tumia Muda kidogo kusikiliza video Hii</h4>
+                       <video src={video1} width="600" height="300" controls="controls" autoplay="true" />
                     </div>
                 </div>
             </div>
