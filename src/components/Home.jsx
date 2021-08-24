@@ -35,7 +35,7 @@ class Home extends Component {
                 <div class="row ">
                     <div class="col-lg-5">
                         <div class="about-caption mb-50">
-                            <h3>Mambo Muhimu yanayohitaka.</h3>
+                            <h3>Taarifa Muhimu Zinazohitajika Katika Kusajili Biashara/Kamipuni .</h3>
                             <div className="btn-taarifa">
                                         <a href={TAARIFA} target="_blank" rel="noreferrer" className="btn header-btn">Bonyeza Kusoma</a>
                                     </div>
